@@ -145,5 +145,5 @@ SPACESHIP_PROMPT_ADD_NEWLINE=false
 # SPACESHIP_PROMPT_SEPARATE_LINE=false # Make the prompt span across two lines
 # SPACESHIP_DIR_TRUNC=1 # Shows only the last directory folder name
  
-SPACESHIP_CHAR_SYMBOL="nuke that shit > "
+SPACESHIP_CHAR_SYMBOL="n0th1ng?? ->"
 SPACESHIP_CHAR_SUFFIX=" "
