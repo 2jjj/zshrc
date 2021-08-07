@@ -1,8 +1,5 @@
-### Minha personalização do oh my zsh.
+### ✈ | Minha personalização do oh my zsh.
 
 
-* Como aplicar essas configurações:
-
-```
-  code ~/.zshrc
-```
+> Como posso aplicar essas configurações?
+- ```code ~/.zshrc```
